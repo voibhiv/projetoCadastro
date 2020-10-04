@@ -1,0 +1,15 @@
+.campoTexto {width: 100%;}
+
+.seguraTextoCampo {padding: 10px 35px;}
+
+.btTitle {
+    padding: 0px 15px;
+    cursor: pointer;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+#ufEmpresa {
+    width:100%;
+    padding: 5px;
+}

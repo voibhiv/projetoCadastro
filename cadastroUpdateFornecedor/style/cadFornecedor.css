@@ -1,0 +1,37 @@
+.campoTexto {width: 100%;}
+
+.seguraTextoCampo {padding: 10px 35px;}
+
+.selectEmpresa {
+    width: 100%;
+    padding: 5px;
+}
+
+.btTitle {
+    padding: 0px 15px;
+    cursor: pointer;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.btSelecionado {
+    border: 1px solid;
+    border-bottom: 0px;
+}
+
+.btNaoSelecionado {
+    border: 1px solid #c3c3c3;
+    color: #c3c3c3;
+    border-bottom: 0px;
+}
+
+#infoCampos {
+    padding: 0px 10px;
+    color: #6b6b6b;
+}
+
+
+#infoCampos:hover {
+    color: #000;
+    transition: 0.3s;
+}

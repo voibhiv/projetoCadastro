@@ -1,0 +1,153 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #000 !important;
+    font-family: 'lato';
+}
+
+.seguraContainers {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modalCadastros {
+    width: 80%;
+    border: 1px solid #c3c3c3;
+    border-radius: 5px;
+    height: 775px;
+    box-shadow: 0px 0px 21px -11px;
+    background: #fff;
+    overflow-y:auto;
+    overflow-x: hidden;
+}
+
+.seguraTudo {
+    background: #0f2031;
+    height: 100%;
+}
+
+.seguraHeader {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 35px;
+    border-bottom: 1px solid #c3c3c3;
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+    opacity: 1;
+    background: #fff;
+}
+
+.esquerdaHeader h2 {
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.esquerdaHeader {
+    display: flex;
+    align-items: center;
+}
+
+.direitaHeader {
+    display: flex;
+    align-items: center;
+}
+
+.btnCadastro,
+.btnCadastro:active,
+.btnCadastro:visited {
+    padding: 5px 10px;
+    border: 1px solid #007bff;
+    border-radius: 3px;
+    text-decoration: none !important;
+    background-color:#fff;
+}
+
+.btnCadastro:hover {
+    color: #fff;
+    background-color: #007bff;
+    transition: 0.3s;
+}
+
+.seguraInfo {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    border-bottom: 1px solid #c3c3c3;
+    /* box-shadow: 0px 6px 17px -15px #000; */
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.seguraInfoLinhas {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    border-bottom: 1px solid #c3c3c3;
+    font-size: 12px;
+}
+.seguraLista {
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+.textTitle{
+    border-bottom: 2px solid #0f2031;
+    padding-bottom: 2px;
+}
+
+.textTitle {
+    border-bottom: 2px solid #0f2031;
+    padding-bottom: 2px;
+}
+
+.textTitle {
+    border-bottom: 2px solid #0f2031;
+    padding-bottom: 2px;
+}
+
+.seguraUF1 {
+    width: 16.666667%;
+    text-align: center;
+    word-break: break-all;
+}
+
+.seguraUF2 {
+    width: 50%;
+    text-align: center;
+    word-break: break-all;
+}
+
+.seguraUF3 {
+    width: 33.333333%;
+    text-align: center;
+    word-break: break-all;
+}
+
+.seguraUF01 {
+    width: 25%;
+    text-align: center;
+    word-break: break-all;
+}
+
+.seguraUF02 {
+    width: 25%;
+    text-align: center;
+    word-break: break-all;
+}
+
+.seguraUF03 {
+    width: 25%;
+    text-align: center;
+    word-break: break-all;
+}
+
+
+.seguraUF04 {
+    width: 25%;
+    text-align: center;
+    word-break: break-all;
+}
