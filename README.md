@@ -1,6 +1,6 @@
 
 <b> OBJETIVO </b><br>
-	Este projeto tem como objetivo criar uma lista de fornecedores relacionado a uma empresa;
+	Este projeto tem como objetivo criar uma lista de fornecedores relacionado a uma empresa
 
 <b>LINGUAGENS E MARCAÇÕES</b><br>
 	Feito em HTML, CSS, INNODB, PHP, JAVASCRIPT(JQUERY) e utilizando um plug-in de máscaras para campos.
@@ -14,4 +14,5 @@ OBS: O projeto não adaptado para telas menores porém cumpre seu requisito quan
 
 <b>OPINIÕES FINAIS</b><br>
 	Este projeto tem a finalidade e desafio de testar meu próprio conhecimento, apesar do pouco tempo foi bem legal faze-lô pois nunca tinha feito nada mais concreto com php e também nada com PDO.
+ 
  
