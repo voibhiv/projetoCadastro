@@ -3,7 +3,7 @@
 	Este projeto tem como objetivo criar uma lista de fornecedores relacionado a uma empresa
 
 <b>LINGUAGENS E MARCAÇÕES</b><br>
-	Feito em HTML, CSS, INNODB, PHP, JAVASCRIPT(JQUERY) e utilizando um plug-in de máscaras para campos.
+	Feito em HTML, CSS, MYSQL, PHP, JAVASCRIPT(JQUERY) e utilizando um plug-in de máscaras para campos.
 
 <b>COMO FUNCIONA</b><br>
   Primeiro de tudo abra a pasta onde esta o arquivo do banco e rode-o na sua máquina.
